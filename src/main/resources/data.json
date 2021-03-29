@@ -1,0 +1,30 @@
+[
+  {
+    "email": "daniel@email.com",
+    "imageUrl": "https://www.bootdey.com/img/Content/avatar/avatar1.png",
+    "jobTitle": "JavaScript",
+    "name": "Daniel Ionica",
+    "phone": "0799111111"
+  },
+  {
+    "email": "andrei@email.com",
+    "imageUrl": "https://www.bootdey.com/img/Content/avatar/avatar2.png",
+    "jobTitle": "Java",
+    "name": "Andrei Popescu",
+    "phone": "0799222222"
+  },
+  {
+    "email": "adi@email.com",
+    "imageUrl": "https://www.bootdey.com/img/Content/avatar/avatar3.png",
+    "jobTitle": "JavaScript",
+    "name": "Adi Avram",
+    "phone": "0799333333"
+  },
+  {
+    "email": "florin@email.com",
+    "imageUrl": "https://www.bootdey.com/img/Content/avatar/avatar4.png",
+    "jobTitle": "PHP",
+    "name": "Florin Toanca",
+    "phone": "0799444444"
+  }
+]
